@@ -1,0 +1,8 @@
+
+{
+  "name": "Dreamy Tech Christmas",
+  "description": "A high-performance 3D Christmas experience featuring 7,000+ instanced geometries with AI-powered hand gesture control using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
